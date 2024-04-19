@@ -1,0 +1,21 @@
+.title {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.input {
+  border: solid 2px;
+  border-color: black;
+  border-radius: 20px;
+  width: 50rem;
+  height: 2rem;
+  padding: 3rem;
+}
+
+.inputDiv {
+  border: 2px;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+}
